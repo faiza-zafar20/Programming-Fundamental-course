@@ -1,9 +1,27 @@
-# Part B Q1 - Faiza Zafar 26K-0019 BAI
+# Q1 - AI Decision Engine / [Your Question Title Here]
 
-## Outputs
-![Output 1](./Q1.png)
-![Output 2](./Q1_remaining.png)
-![Output 3](./question1_output.png)
+**Name:** Faiza Zafar
+**Roll No:** 26K-0019
+**Section:** BAI
 
-## Executable
-question1.exe
+### 1. Algorithm
+![ALGORITHM](ALGORITHM.jpeg)
+
+### 2. IPO Chart
+![IPO](IPO.jpeg)
+
+### 3. PAC
+![PAC](PAC.jpeg)
+
+### 4. Pseudocode
+![PSEUDOCODE](PSEUDOCODE.jpeg)
+
+### 5. Flowchart
+![Flowchart](Q1.png)
+![Flowchart Remaining](Q1_remaining.png)
+
+### 6. Output
+![Output](question1_output.png)
+
+### 7. Executable
+The executable file for this question is `question1.exe`

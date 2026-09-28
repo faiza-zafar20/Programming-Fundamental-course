@@ -1,17 +1,18 @@
-# Q6 - [Question Title]
+# Q6 - Question 6
 
-**Name:** Faiza Zafar
+**Name:** Faiza Zafar  
 **Roll No:** 26K-0019 BAI
 
-### 1. Flowcharts / Diagrams
-![Flowchart 1](Q6.png)
-![Flowchart 2](QNO6.png)
-![Flowchart 3](Qno6.png)
-![Flowchart 4](qno6.png)
-![Flowchart 5](question6.png)
+### 1. PAC
+![PAC](PAC.png)
 
-### 2. Output
+### 2. Flowchart
+![Flowchart Main](Q6.png)
+![Flowchart Detail](qno6.png)
+![Flowchart Complete](question6.png)
+
+### 3. Output
 ![Output](question6_output.png)
 
-### 3. Executable
-The executable file for this question is `question6.exe`
+### 4. Executable
+The executable file is `question6.exe`

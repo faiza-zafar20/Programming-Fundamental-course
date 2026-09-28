@@ -1,7 +1,7 @@
 # Q1 - Guest Management System
 
 **Name:** Faiza Zafar
-**Roll No:** 26K-0019
+**Roll No:** 26K-0019 BAI
 
 ### 1. Algorithm
 ![Algorithm](ALGORITHM.jpeg)
@@ -16,11 +16,11 @@
 ![Pseudocode](PSEUDOCODE.jpeg)
 
 ### 5. Flowchart
-![Flowchart Part 1](Q1.png)
-![Flowchart Part 2](Q1_remaining.png)
+![Flowchart](flowchart.jpeg)
+![Flowchart Remaining](remaining.jpeg)
 
 ### 6. Output
 ![Output](question1_output.png)
 
 ### 7. Executable
-`question1.exe`
+The executable file for this question is `question1.exe`

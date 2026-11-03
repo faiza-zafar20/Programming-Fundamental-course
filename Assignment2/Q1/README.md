@@ -1,24 +1,19 @@
 # Q1 - Cinema Hall Booking System
 
-**Name:** Faiza | **Roll No:** 26k0019
-**Course:** Programming Fundamentals | **Assignment 2 - Fall 2026**
+**Student Name:** Faiza | **Roll No:** 26k0019
 
-### 1. Assignment Question PDF
-Click below to view the full question PDF:
+### 1. Assignment Question PDF (Full PDF)
 
-[📄 Open q1.pdf](./q1.pdf)
+The complete question PDF is available here, click to open full:
 
-### 2. Program Output
+[📄 Click Here to Open Full PDF - q1.pdf](./q1.pdf)
 
-Here is the output screenshot of the program execution:
+### 2. Program Output Screenshot
+
+This is the terminal output after running the program:
 
 ![Output Screenshot](./Screenshot%202026-11-03%20194539.png)
 
-Alternative path if above does not load:
+Backup screenshot from output folder:
 
 ![Output Screenshot](output/Screenshot%202026-11-03%20194539.png)
-
-### 3. How to Compile and Run
-```bash
-gcc q1.c -o q1
-./q1

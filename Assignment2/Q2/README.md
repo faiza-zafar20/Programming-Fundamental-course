@@ -1,18 +1,24 @@
 # Q2 - Amicable Pairs
 
 **Name:** Faiza | **Roll No:** 26k0019
+**Course:** Programming Fundamentals | **Assignment 2**
 
-### Question
-Find all amicable pairs up to n. Example (220, 284) is amicable pair.
+### 1. Question PDF
+Full question PDF is here:
 
-### Logic
-- Function `sumProperDivisors(x)` calculates sum of proper divisors (divisors except x itself).
-- Optimization: Check divisors only up to sqrt(x) to be fast.
-- Perfect numbers like 6 and 28 are excluded because sum == number itself.
-- Pair is displayed only once with smaller number first: `(a, b)` where `a < b`.
+[📄 Click to Open - Qno 2.pdf](./Qno%202.pdf)
 
-### How to Run
+### 2. Program Output Screenshot
+Here is the program output, visible directly in README:
+
+![Q2 Output Screenshot](./q2.output.png)
+
+If image not loading from root, check output folder:
+
+![Q2 Output Screenshot - Backup](output/q2.output.png)
+
+### 3. How to Compile & Run
 ```bash
 gcc q2.c -o q2 -lm
 ./q2
-# Input: 3000
+# Enter n = 3000

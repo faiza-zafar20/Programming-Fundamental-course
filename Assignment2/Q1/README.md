@@ -1,20 +1,24 @@
 # Q1 - Cinema Hall Booking System
 
-**Name:** Faiza 
-**Roll No:** 26k0019 
-**Course:** Programming Fundamentals 
-**Assignment:** 2 - Fall 2026
+**Name:** Faiza | **Roll No:** 26k0019
+**Course:** Programming Fundamentals | **Assignment 2 - Fall 2026**
 
-### Problem Description
-This program manages cinema hall seat booking using a 2D array. It displays the seating plan, shows free seats report, and books k consecutive seats by searching from the middle row.
+### 1. Assignment Question PDF
+Click below to view the full question PDF:
 
-### How It Works
-1. Takes number of rows and seats
-2. Takes seating status (0=free, 1=booked)
-3. Displays Seating Plan (_=free, X=booked)
-4. Shows Free seats per row and Total free seats
-5. Asks for k customers who want to sit together
-6. Search order: Middle Row -> one below middle -> one above middle
-7. Books the seats and shows updated plan
+[📄 Open q1.pdf](./q1.pdf)
 
-### Compilation and Execution
+### 2. Program Output
+
+Here is the output screenshot of the program execution:
+
+![Output Screenshot](./Screenshot%202026-11-03%20194539.png)
+
+Alternative path if above does not load:
+
+![Output Screenshot](output/Screenshot%202026-11-03%20194539.png)
+
+### 3. How to Compile and Run
+```bash
+gcc q1.c -o q1
+./q1
